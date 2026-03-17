@@ -44,7 +44,7 @@ CIRCUIT DIAGRAM:
 
 ![alt text](<WhatsApp Image 2026-03-15 at 8.26.47 AM.jpeg>)
 
-![alt text](direct.png)
+<img width="1920" height="1115" alt="12" src="https://github.com/user-attachments/assets/6d43c552-34ea-4cc9-a927-e4a49e682dc5" />
 
 Tabulation:1
 	
@@ -54,7 +54,7 @@ Cross connection:
 CIRCUIT DIAGRAM:
 
 ![alt text](<WhatsApp Image 2026-03-15 at 8.26.48 AM (1).jpeg>)
-![alt text](cross.png)
+<img width="1920" height="1113" alt="13" src="https://github.com/user-attachments/assets/37f429b7-326f-4e2a-9b1e-d7a508bd6d75" />
 
 Tabulation:2
 
